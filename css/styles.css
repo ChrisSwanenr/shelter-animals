@@ -1,0 +1,30 @@
+.column {
+  float: left;
+  width: 400px;
+  padding: 10px;
+  box-shadow: 5px 10px 20px;
+  margin: 10px;
+  background-color: white;
+
+}
+.border {
+  text-align: center;
+  font-family: cursive;
+  border: 2px;
+  border-style: solid;
+  border-radius: 100px;
+  padding: 10px;
+  margin-left: 38%;
+  margin-right: 38%;
+  background-color: #cae6dc;
+}
+.column p span {
+  color: blue;
+  font-style: italic;
+}
+.column p {
+  font-family: sans-serif;
+}
+body {
+  background-color: #e0dcde;
+}
